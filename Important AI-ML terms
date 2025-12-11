@@ -1,0 +1,15 @@
+Artificial Intelligence (AI): Simulation of human intelligence processes by computer systems.
+​Machine Learning (ML): A subset of AI where computers learn from data without being explicitly programmed.
+​Dataset: A collection of data used to train or test a machine learning model.
+​Features: The input variables (columns) used to make predictions (e.g., "Square Footage" in a house price model).
+​Labels (Target): The output variable you are trying to predict (e.g., "Price" in a house price model).
+​Supervised Learning: Training a model on labeled data (input-output pairs are known).
+​Unsupervised Learning: finding hidden patterns in unlabeled data.
+​Overfitting: When a model learns the training data too well, capturing noise, and fails on new data.
+​Underfitting: When a model is too simple to capture the underlying patterns in the data.
+​Precision: The ratio of correctly predicted positive observations to the total predicted positives.
+​Recall: The ratio of correctly predicted positive observations to the all observations in actual class.
+​Training Set: The subset of data used to train the model.
+​Test Set: The subset of data kept hidden to evaluate how well the model performs.
+​Regression: A type of ML problem where the output is a continuous number (e.g., predicting temperature).
+​Classification: A type of ML problem where the output is a category (e.g., Is this email Spam or Not Spam?).
