@@ -1,0 +1,6 @@
+Summary of Supervised vs. Unsupervised Learning:
+​Supervised Learning is like learning with a teacher. The system is trained on a dataset where the correct answers (labels) are already known. 
+The goal is to learn a mapping from inputs to outputs.
+Common uses include Spam Filtering (Classification) and House Price Prediction (Regression).
+Unsupervised Learning is like learning without a teacher. The system is given data with no labels and must find structure on its own.
+It is commonly used for Customer Segmentation (Clustering) or finding unusual patterns (Anomaly Detection).
